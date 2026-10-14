@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791519169055,
+      "tag": "0000_members_accounts_likes_requests",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791783285339,
+      "tag": "0001_members_amsam_chart",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791864262718,
+      "tag": "0002_profiles_username",
+      "breakpoints": true
+    }
+  ]
+}
